@@ -20,6 +20,7 @@
 *.tar
 *.zip
 
+# Resources #
 *.jpg
 *.mp4
 *.mp3

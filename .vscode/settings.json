@@ -1,31 +1,6 @@
 {
-    "C_Cpp.updateChannel": "Insiders",
-    "security.workspace.trust.untrustedFiles": "open",
-    "indentRainbow.colors": [
-        "rgba(255,255,64,0.07)",
-        "rgba(127,255,127,0.07)",
-        "rgba(255,127,255,0.07)",
-        "rgba(79,236,236,0.07)"
-    ],
-    "indentRainbowBlocks.colors": [
-        "rgba(240 255 240)",
-        "rgba(240 255 255)"
-    ],
-    "workbench.colorTheme": "Rainbow Syntax Highlighter",
-    "settingsSync.ignoredExtensions": [
-        "gabrielgod1.indent-rainbow-blocks"
-    ],
+
     "editor.fontSize": 14.5,
-    "workbench.colorCustomizations": {
-        //设置用户选中代码段的颜色
-        "editor.selectionBackground": "#f5f113",
-        //标记那些和选中内容相似的部分
-        "editor.selectionHighlightBackground": "#f5f113",
-        //设置活动tab窗口颜色(小窗口)
-        "tab.activeBackground": "#5f80629a"
-    },
-    "liveServer.settings.donotShowInfoMsg": true,
-    "editor.useTabStops": false, //防止 VS Code 在按 Backspace 时自动删除到下一个 Tab 停止点。
-    "editor.guides.indentation": false, //不显示竖线对齐提示
-    "editor.indentSize": "tabSize", //设置为 none,这样就不会再看到制表位指示器了。
+
+    
 }
